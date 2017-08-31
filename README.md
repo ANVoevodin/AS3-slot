@@ -1,3 +1,3 @@
 # AS3-slot
-The test task.
-It's not my best work, it's just test task :)
+Slot machine in Flash and ActionScript 3.0
+[Check out demo!](http://anvoevodin.name/demos/as3-slot/)
